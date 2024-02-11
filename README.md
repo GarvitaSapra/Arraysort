@@ -1,1 +1,1 @@
-Sorting an array using js 
+Sorting an array 
